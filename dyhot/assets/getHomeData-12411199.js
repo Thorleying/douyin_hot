@@ -1,0 +1,1 @@
+import{a as t}from"./request-571d1387.js";const r=()=>t.request({url:"/getAllDouYinHot.php",method:"GET"}),o=e=>t.request({url:"/getDetailObj.php",method:"POST",params:{Id:e}}),s=e=>t.request({url:"/updateObj.php",method:"POST",params:{Id:e.Id,name:e.name,href:e.href,img:e.img}});export{s as U,o as a,r as g};

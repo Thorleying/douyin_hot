@@ -1,0 +1,1 @@
+import{_ as t,a as o,o as s,g as n}from"./index-4944d5d0.js";const a={name:"index"};function u(r,c,_,p,i,l){const e=o("a-result");return s(),n(e,{status:"404",title:"404","sub-title":"抱歉,找不到该页面"})}const f=t(a,[["render",u]]);export{f as default};

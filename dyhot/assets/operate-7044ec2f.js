@@ -1,0 +1,1 @@
+import{a as r}from"./request-571d1387.js";const m=e=>r.request({url:"/addObj.php",method:"POST",params:{name:e.name,href:e.href,img:e.img,time:e.time}}),t=e=>r.request({url:"/delObj.php",method:"POST",params:{objId:e}});export{m as a,t as d};

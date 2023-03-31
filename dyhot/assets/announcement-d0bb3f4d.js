@@ -1,0 +1,1 @@
+import{a as e}from"./request-571d1387.js";const r=()=>e.request({url:"/getAnnouncement.php",method:"GET"}),o=n=>e.request({url:"/updateAnnouncement.php",method:"POST",params:{Id:n}}),a=(n,t)=>e.request({url:"/addAnnouncement.php",method:"POST",params:{content:n,time:t}});export{a,r as g,o as u};

@@ -1,0 +1,1 @@
+import{a as r}from"./request-571d1387.js";const t=()=>r.request({url:"/getBanner.php",method:"GET"}),a=e=>r.request({url:"/insertBanner.php",method:"POST",params:{img:e}}),s=e=>r.request({url:"/delBanner.php",method:"POST",params:{Id:e}});export{s as d,t as g,a as i};
